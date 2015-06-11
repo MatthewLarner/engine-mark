@@ -1,0 +1,23 @@
+{
+  "name": "engine-mark",
+  "version": "1.0.0",
+  "description": "Get a performance mark for your javascript engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewLarner/engine-mark.git"
+  },
+  "keywords": [
+    "benchmark",
+    "performance"
+  ],
+  "author": "Matt Larner <matt.larner.dev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matthewLarner/engine-mark/issues"
+  },
+  "homepage": "https://github.com/matthewLarner/engine-mark#readme"
+}
