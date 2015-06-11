@@ -1,6 +1,6 @@
 {
   "name": "engine-mark",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get a performance mark for your javascript engine",
   "main": "index.js",
   "scripts": {
