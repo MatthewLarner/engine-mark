@@ -3,6 +3,8 @@ Get a performance mark for your javascript engine.
 
 # Usage
 
+Get your engine-mark performance score.
+
 ```javascript
-var engineMark = require('engine-mark')(); // get your engine-mark performance score.
+var engineMark = require('engine-mark')();
 ```
